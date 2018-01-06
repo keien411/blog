@@ -1,9 +1,17 @@
 ---
 title: 插件的简单配置（Hbuilder）
+date: 2016/10/27 20:30:11
+categories:
+- Technology
+- Hbuilder
+tags:
+- Technology
+- Hbuilder
 ---
 ```
     今天重新捡起插件归纳下步骤，俗话说好记性不如烂笔头，不要相信自己的记性有多好。有错误之处感谢指出
 ```
+<!-- more -->
 # 前言
 
 ```

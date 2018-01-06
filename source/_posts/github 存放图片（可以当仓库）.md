@@ -1,10 +1,19 @@
 ---
 title: github 存放图片（可以当仓库）
+date: 2016/11/09 20:30:11
+categories:
+- Technology
+- Git
+tags:
+- Technology
+- Git
 ---
 # 前言
 ```
 我们都要用到图片什么的，这个可以当作仓库用。
 ```
+
+<!-- more -->
 ## 开始
 
 > 将图片放在仓库里面

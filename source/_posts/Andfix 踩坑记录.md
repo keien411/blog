@@ -1,8 +1,17 @@
 ---
 title: Andfix 踩坑记录
+date: 2017/01/14 20:30:11
+categories:
+- Technology
+- Hot Update
+tags:
+- Technology
+- Hot Update
 ---
 # 前言
 刚看到android热更新，抱着好奇心去玩了一把，没想到有这多的坑啊，记录下坑！
+
+<!-- more -->
 
 ## 踩坑
 1. 加权限，我在这里爬了很久，愣是没想起来

@@ -1,8 +1,17 @@
 ---
 title: git 学习记录（项目初始化跟踪远程仓库）
+date: 2016/11/09 20:30:11
+categories:
+- Technology
+- Git
+tags:
+- Technology
+- Git
 ---
 # 前言
 好记性不如烂笔头，量变引质变，记录下git学习记录。
+
+<!-- more -->
 
 ## 开始
 ```

@@ -1,10 +1,19 @@
 ---
 title: 复制一个app（Hbuilder离线打包）
+date: 2016/11/09 20:30:11
+categories:
+- Technology
+- Hbuilder
+tags:
+- Technology
+- Hbuilder
 ---
 # 前言
 ```
         客户的要求，真是......还是记录下复制步骤，要加的东西太多，好记性不如烂笔头啊
 ```
+
+<!-- more -->
 ## 粘贴复制重命名
 
 1. 打开androidstudio导入项目，修改它的包名，名称
